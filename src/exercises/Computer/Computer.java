@@ -1,7 +1,7 @@
-package Exercise_1;
+package exercises.Computer;
 
-import Exercise_1.edu.tekwill.academy.computer.components.*;
-import Exercise_1.edu.tekwill.academy.computer.pheripherals.*;
+import exercises.Computer.edu.tekwill.academy.computer.components.*;
+import exercises.Computer.edu.tekwill.academy.computer.pheripherals.*;
 
 public class Computer {
 

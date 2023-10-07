@@ -1,3 +1,5 @@
+package exercises.Computer;
+
 public class TemperatureConverter {
 
     float temp;

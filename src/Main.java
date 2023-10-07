@@ -1,3 +1,5 @@
+import exercises.Computer.*;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -9,8 +11,6 @@ public class Main {
         TemperatureConverter Ex_3 = new TemperatureConverter(32F);
         Ex_3.toCelsius();
         Ex_3.toFahrenheit();
-
-
 
     }
 }
